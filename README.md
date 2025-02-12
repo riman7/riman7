@@ -1,4 +1,3 @@
-# riman7
 <h2 align="center">👋Hi, I'm Riman Maharjan</h1>
 
 <h3 align="center">Languages and Tools</h3>
