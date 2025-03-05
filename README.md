@@ -5,12 +5,8 @@
 
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riman7&locale=en&hide_title=false&layout=compact&card_width=520&langs_count=5&theme=dracula&hide_border=false&order=2&cache_seconds=60" height="150" alt="languages graph" />
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://git.io/streak-stats"><img  height="150" src="https://streak-stats.demolab.com?user=riman7&hide_border=true&border_radius=5&card_width=449&card_height=170&type=png&background=41%2CFB89FF%2C7CFFFE&border=EBC733&card_width=520" alt="GitHub Streak" /></a>
-</div>
+![riman7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riman7&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+![riman7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=riman7&theme=algolia&hide_border=true)
 
 
 
