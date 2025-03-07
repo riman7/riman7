@@ -5,9 +5,9 @@
 
 
 ###
-![riman7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riman7&theme=algolia&show_icons=true&hide_border=true&layout=compact)
-![riman7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=riman7&theme=algolia&hide_border=true)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riman7&theme=algolia&show_icons=true&hide_border=true&layout=compact" width="900px" height="170px">
+</p>
 
 
 ###
