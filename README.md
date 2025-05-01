@@ -6,7 +6,8 @@
 
 ###
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riman7&theme=algolia&show_icons=true&hide_border=true&layout=compact&cache_seconds=86405" height="170px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riman7&layout=compact&langs_count=10&theme=algolia" height="220px" >
+
 </p>
 
 
