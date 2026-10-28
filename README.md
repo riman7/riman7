@@ -68,7 +68,7 @@
 </p>
 
 ### 🧠 Learning
-- Python (AI and ML)
+- Java
 
 
 ###
